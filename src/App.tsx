@@ -31,20 +31,20 @@ function App() {
   }
 
   return (
-    <div className="min-h-screen bg-gray-900">
+    <div className="min-h-screen bg-[#0d1117]">
       <div className="container mx-auto px-4 py-8">
         {/* Header */}
         <div className="mb-8">
           <div className="flex items-center space-x-3 mb-4">
-            <div className="p-3 bg-blue-500/20 rounded-xl border border-blue-500/30">
-              <GitPullRequest className="h-8 w-8 text-blue-400" />
+            <div className="p-3 bg-[#238636]/20 rounded-xl border border-[#238636]/30">
+              <GitPullRequest className="h-8 w-8 text-[#238636]" />
             </div>
             <div>
-              <h1 className="text-3xl font-bold text-white">GitHub PR Review Agent Dashboard</h1>
-              <p className="text-gray-500">Real-time insights and analytics</p>
+              <h1 className="text-3xl font-bold text-[#f0f6fc]">GitHub PR Review Agent Dashboard</h1>
+              <p className="text-[#7d8590]">Real-time insights and analytics</p>
             </div>
           </div>
-          <div className="h-1 bg-gradient-to-r from-blue-500 to-purple-600 rounded-full"></div>
+          <div className="h-1 bg-gradient-to-r from-[#238636] to-[#1f6feb] rounded-full"></div>
         </div>
 
         {/* Stats Grid */}

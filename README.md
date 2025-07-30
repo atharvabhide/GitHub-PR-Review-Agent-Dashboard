@@ -2,6 +2,8 @@
 
 A beautiful, real-time dashboard for monitoring and analyzing GitHub PR reviews. Built with React, TypeScript, and Supabase for seamless data management and live updates.
 
+![Dashboard Preview](https://via.placeholder.com/800x400/1f2937/60a5fa?text=GitHub+PR+Review+Dashboard)
+
 ## ✨ Features
 
 - **Real-time Updates** - Live dashboard that updates automatically when new reviews are added
@@ -170,6 +172,9 @@ npm run build
 ```
 
 The built files will be in the `dist` directory, ready for deployment.
+
+### Live Demo
+View the live demo: [GitHub PR Review Dashboard](https://storied-malabi-5cfa7b.netlify.app)
 
 ## 🤝 Contributing
 
